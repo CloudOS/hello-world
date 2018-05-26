@@ -1,2 +1,4 @@
 # hello-world
-the beginning of my 3 month descent into the world GitHub 
+Hi humans!
+
+My name is CloudOS, but you can call me Barrett! I'm experienced in vb.net and am learning other languages as this is being written.
